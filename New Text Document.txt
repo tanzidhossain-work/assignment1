@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Quick</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div class="header">
+
+	<div class="container"> 
+
+		<div class="nav"> 
+
+			<div class="logo">
+				<img src="logo1.png">
+
+			 </div>
+				
+		    <div class="menu">
+
+		    	<ul>
+		    		<li><a href="">Overviews </a></li>
+		    		<li><a href="">Landings </a> </li>
+		    		<li><a href="">Pages </a> </li>
+		    		<li><a href="">Apps </a> </li>
+		    		<li><a href="">Docs </a> </li>
+
+		    	</ul>
+
+
+		     </div>
+
+		</div>
+
+
+	</div>
+
+</div>
+
+<div class="second-part">
+
+	<div class="container">
+
+		<div class="secondpart-Content">
+
+			<h1>it's time to amplify your <br>
+			<span class="secondpart-Content-sndh1"> online business</span>
+			</h1>
+
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et<br> dolore magna aliqua. Ut enim ad minim veniam</p>
+			<img src="2ndcontentpic.PNG">
+		
+
+	     </div>
+
+    </div>
+
+</div>
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+/*font-family: 'Noto Sans', sans-serif;*/
+
+
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+a{
+	text-decoration: none; 
+}
+
+.header{
+   
+   width: 100%;
+   
+	
+
+}
+
+.container{
+
+	width: 1140px ;
+	margin: auto;
+	
+}
+
+.nav{
+
+	width: 100%;
+	float: left;
+	padding: 15px 0;
+
+	border-bottom: double;
+    border-bottom-color:#fafafb;
+
+}
+
+.logo{
+     
+     width: 70%;
+     float: left;
+     /*background-color: red;*/
+     /*height: 50px;*/
+}
+
+.menu{
+
+	 width: 30%;
+	 float: left;
+	 line-height: 30px;
+	 /*background-color: black;*/
+	 /*height: 50px;*/
+}
+
+.logo img{
+
+}
+
+.menu ul li{
+
+	list-style: none;
+    display: inline-block;
+    margin-right: 10px;
+
+}
+
+.menu ul li a{
+	font-size: 16px;
+	color: black;
+	font-weight: 400;
+	font-family: Calibri;
+
+}
+
+.second-part{
+
+	width: 100%;
+    text-align: center;
+
+    margin-top: 5px; 
+}
+
+.secondpart-Content h1{
+
+	font-family: 'Noto Sans', sans-serif;
+	text-align: center;
+}
+
+.secondpart-Content-sndh1{
+
+	font-family: 'Noto Sans', sans-serif;
+	color: #008aff;
+}
+
+
+.secondpart-Content p{
+    
+    /*margin-top: 10px;*/
+	font-family: 'Noto Sans', sans-serif;
+	color: #b8bfcd;
+	font-size: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
